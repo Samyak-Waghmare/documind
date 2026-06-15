@@ -1,0 +1,93 @@
+
+CONFIDENTIAL MEDICAL REPORT
+============================
+Patient ID: PT-2024-08847 (ANONYMIZED FOR DEMO)
+Date of Report: November 15, 2024
+Attending Physician: Dr. James Wilson, MD
+Facility: Metropolitan General Hospital, Cardiology Department
+
+PATIENT INFORMATION:
+Name: [REDACTED - DEMO DOCUMENT]
+Date of Birth: [REDACTED]
+Medical Record Number: MRN-884721
+Insurance: BlueCross BlueShield (Policy: BCB-2024-119847)
+
+CHIEF COMPLAINT:
+Patient presented with progressive shortness of breath on exertion (SOBOE) 
+over the past 3 months, accompanied by occasional chest tightness and bilateral 
+ankle edema. Patient denies chest pain at rest, syncope, or palpitations.
+
+VITAL SIGNS AT ADMISSION:
+Blood Pressure: 148/92 mmHg (elevated)
+Heart Rate: 88 bpm (regular)
+Respiratory Rate: 18 breaths/min
+SpO2: 94% on room air
+Temperature: 98.6°F (37.0°C)
+Weight: 187 lbs (85 kg)
+Height: 5'9" (175 cm)
+BMI: 27.4 (Overweight)
+
+MEDICAL HISTORY:
+- Hypertension (diagnosed 2018, on medication)
+- Type 2 Diabetes Mellitus (HbA1c 7.8% - poorly controlled)
+- Hyperlipidemia (LDL 142 mg/dL)
+- Former smoker (quit 2020, 15 pack-year history)
+- No prior cardiac history
+
+CURRENT MEDICATIONS:
+1. Metformin 1000mg BID
+2. Lisinopril 10mg QD  
+3. Atorvastatin 40mg QD
+4. Aspirin 81mg QD
+
+DIAGNOSTIC RESULTS:
+
+ECG Findings:
+- Normal sinus rhythm
+- Left ventricular hypertrophy (LVH) by voltage criteria
+- Nonspecific ST-T wave changes in lateral leads
+
+Echocardiogram:
+- Left Ventricular Ejection Fraction (LVEF): 45% (mildly reduced)
+- Mild-moderate mitral regurgitation
+- Diastolic dysfunction Grade II
+- Left atrial enlargement (volume index 38 mL/m²)
+
+Laboratory Results:
+Test                | Result      | Normal Range    | Flag
+--------------------|-------------|-----------------|------
+BNP                 | 487 pg/mL   | < 100 pg/mL     | HIGH
+Troponin I          | 0.04 ng/mL  | < 0.04 ng/mL    | HIGH
+Creatinine          | 1.3 mg/dL   | 0.7-1.2 mg/dL   | HIGH
+eGFR                | 58 mL/min   | > 60 mL/min     | LOW
+HbA1c               | 7.8%        | < 7.0%          | HIGH
+LDL Cholesterol     | 142 mg/dL   | < 100 mg/dL     | HIGH
+HDL Cholesterol     | 38 mg/dL    | > 40 mg/dL      | LOW
+Potassium           | 4.1 mEq/L   | 3.5-5.0 mEq/L   | NORMAL
+
+DIAGNOSIS:
+1. Heart Failure with Mildly Reduced Ejection Fraction (HFmrEF) - NEW DIAGNOSIS
+2. Hypertensive Heart Disease
+3. Type 2 Diabetes Mellitus - Poorly Controlled
+4. Stage 3a Chronic Kidney Disease (CKD)
+5. Dyslipidemia
+
+TREATMENT PLAN:
+1. Initiate Carvedilol 6.25mg BID (uptitrate as tolerated)
+2. Add Furosemide 20mg QD for volume management
+3. Increase Lisinopril to 20mg QD (monitor renal function/potassium)
+4. Refer to Diabetologist for HbA1c optimization
+5. Cardiac rehabilitation program enrollment
+6. Sodium restriction < 2g/day, fluid restriction 1.5L/day
+7. Daily weight monitoring
+8. Follow-up in 2 weeks
+
+PROGNOSIS:
+With optimal medical therapy and lifestyle modifications, prognosis is guarded-fair.
+The 1-year hospitalization risk based on MAGGIC score is approximately 18%.
+
+THIS DOCUMENT IS STRICTLY CONFIDENTIAL
+Protected Health Information under HIPAA regulations.
+Unauthorized access or disclosure is strictly prohibited.
+For authorized medical personnel only.
+Report generated: Metropolitan General Hospital EMR System v4.2

@@ -1,0 +1,105 @@
+
+SOFTWARE LICENSE AGREEMENT
+
+This Software License Agreement ("Agreement") is entered into as of January 1, 2024 
+("Effective Date") by and between:
+
+LICENSOR: TechVentures Inc., a Delaware corporation with principal offices at 
+1500 Innovation Drive, San Francisco, CA 94105 ("Licensor")
+
+LICENSEE: Global Enterprises LLC, a New York limited liability company with 
+principal offices at 300 Park Avenue, New York, NY 10022 ("Licensee")
+
+RECITALS:
+WHEREAS, Licensor has developed and owns certain proprietary software known as 
+"DataFlow Pro" (the "Software"); and
+
+WHEREAS, Licensee desires to obtain a license to use the Software for its 
+internal business operations;
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements herein, 
+the parties agree as follows:
+
+1. GRANT OF LICENSE
+
+1.1 License Grant. Subject to the terms and conditions of this Agreement, 
+Licensor hereby grants to Licensee a non-exclusive, non-transferable, 
+limited license to:
+   (a) Install and use the Software on up to 500 concurrent users;
+   (b) Access and use the Software solely for Licensee's internal business purposes;
+   (c) Make reasonable copies of the Software for backup purposes only.
+
+1.2 Restrictions. Licensee shall not:
+   (a) Sublicense, sell, resell, transfer, assign, or commercially exploit the Software;
+   (b) Reverse engineer, decompile, or disassemble the Software;
+   (c) Modify or create derivative works based upon the Software;
+   (d) Remove or alter any proprietary notices or labels on the Software.
+
+2. PAYMENT TERMS
+
+2.1 License Fee. Licensee shall pay Licensor an annual license fee of 
+$125,000 USD ("License Fee"), payable in advance on the first business day of 
+each calendar year.
+
+2.2 Support & Maintenance. An additional annual fee of $25,000 USD for 
+standard support and maintenance services (8x5 support, SLA 99.5% uptime).
+
+2.3 Late Payment. Any undisputed amounts not paid when due shall accrue 
+interest at 1.5% per month (18% per annum).
+
+3. CONFIDENTIALITY
+
+3.1 Each party agrees to maintain the other party's Confidential Information 
+in strict confidence and not to disclose such information to any third party 
+without prior written consent.
+
+3.2 "Confidential Information" includes all non-public business, technical, 
+financial, and customer information disclosed by either party.
+
+4. INTELLECTUAL PROPERTY
+
+4.1 Ownership. Licensor retains all right, title, and interest in and to 
+the Software, including all intellectual property rights therein.
+
+4.2 Feedback. Any feedback, suggestions, or improvements provided by Licensee 
+shall become the exclusive property of Licensor.
+
+5. WARRANTIES AND DISCLAIMERS
+
+5.1 Limited Warranty. Licensor warrants that the Software will perform 
+substantially in accordance with the documentation for 90 days from delivery.
+
+5.2 DISCLAIMER. EXCEPT AS SET FORTH IN SECTION 5.1, THE SOFTWARE IS PROVIDED 
+"AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+
+6. LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL,
+EXEMPLARY, OR CONSEQUENTIAL DAMAGES. LICENSOR'S TOTAL LIABILITY SHALL NOT EXCEED 
+THE LICENSE FEES PAID IN THE 12 MONTHS PRECEDING THE CLAIM.
+
+7. TERM AND TERMINATION
+
+7.1 Term. This Agreement commences on the Effective Date and continues for 
+three (3) years unless earlier terminated.
+
+7.2 Termination for Cause. Either party may terminate this Agreement for 
+material breach with 30 days written notice if breach is not cured.
+
+8. GENERAL PROVISIONS
+
+8.1 Governing Law. This Agreement shall be governed by the laws of Delaware.
+8.2 Dispute Resolution. Disputes shall be resolved by binding arbitration in 
+San Francisco, CA under AAA Commercial Arbitration Rules.
+8.3 Entire Agreement. This Agreement constitutes the entire agreement between 
+the parties regarding its subject matter.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+TECHVENTURES INC.                    GLOBAL ENTERPRISES LLC
+By: _____________________            By: _____________________
+Name: Robert Chen                    Name: Jennifer Adams
+Title: Chief Executive Officer       Title: Chief Technology Officer
+Date: January 1, 2024               Date: January 1, 2024
+
+CONFIDENTIAL - ATTORNEY-CLIENT PRIVILEGED DOCUMENT
