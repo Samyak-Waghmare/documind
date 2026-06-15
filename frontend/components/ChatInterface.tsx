@@ -12,10 +12,31 @@ interface VoiceState {
 }
 
 export default function ChatPage() {
-  const [messages, setMessages] = useState<ChatMessage[]>([])
+  const [messages, setMessages] = useState<ChatMessage[]>(() => {
+    if (typeof window !== 'undefined') {
+      const saved = sessionStorage.getItem('chat_messages')
+      if (saved) {
+        try { return JSON.parse(saved) } catch (e) {}
+      }
+    }
+    return []
+  })
   const [input, setInput] = useState('')
   const [loading, setLoading] = useState(false)
-  const [sessionId, setSessionId] = useState<string | null>(null)
+  const [sessionId, setSessionId] = useState<string | null>(() => {
+    if (typeof window !== 'undefined') {
+      return sessionStorage.getItem('chat_session_id') || null
+    }
+    return null
+  })
+
+  useEffect(() => {
+    sessionStorage.setItem('chat_messages', JSON.stringify(messages))
+  }, [messages])
+
+  useEffect(() => {
+    if (sessionId) sessionStorage.setItem('chat_session_id', sessionId)
+  }, [sessionId])
   const [selectedCitation, setSelectedCitation] = useState<Citation | null>(null)
   const [voice, setVoice] = useState<VoiceState>({ listening: false, transcript: '', supported: false })
   const messagesEndRef = useRef<HTMLDivElement>(null)
