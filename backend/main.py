@@ -317,8 +317,8 @@ async def startup_event():
             )
             _documents[doc_id] = record
 
-            # Stagger 5s between docs to stay within free-tier rate limits
-            await asyncio.sleep(5)
+            # Stagger 25s between docs to stay within free-tier rate limits (15 RPM)
+            await asyncio.sleep(25)
             asyncio.create_task(process_document_pipeline(
                 doc_id=doc_id, content=content,
                 safe_name=sample_file.name, mime=mime,

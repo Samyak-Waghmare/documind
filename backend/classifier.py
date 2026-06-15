@@ -105,7 +105,22 @@ def classify_document(
             raw = raw[4:]
     raw = raw.strip()
 
-    data = json.loads(raw)  # raises JSONDecodeError if malformed — caller handles
+    try:
+        data = json.loads(raw)  # raises JSONDecodeError if malformed
+    except json.JSONDecodeError as e:
+        logger.error(f"JSON decode error: {e}. Raw: {raw[:100]}")
+        data = {
+            "document_type": "other",
+            "topic": "Unknown Document",
+            "language": "Unknown",
+            "sensitivity_level": "public",
+            "has_tables": False,
+            "has_handwriting": False,
+            "has_images": False,
+            "summary": "AI classification failed due to parsing error.",
+            "key_entities": [],
+            "content_characteristics": []
+        }
 
     if has_tables:
         data["has_tables"] = True
