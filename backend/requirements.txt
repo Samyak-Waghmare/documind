@@ -1,0 +1,28 @@
+fastapi==0.127.0
+uvicorn[standard]==0.40.0
+python-multipart==0.0.21
+python-dotenv==1.2.1
+pydantic==2.12.5
+pydantic-settings==2.12.0
+
+# Document processing
+pdfplumber==0.11.9
+pypdf==6.5.0
+pytesseract==0.3.13
+pdf2image==1.17.0
+Pillow==12.1.0
+
+# AI / LLM
+google-genai==1.72.0
+langchain==1.2.0
+langchain-google-genai==4.2.1
+langchain-core==1.2.28
+
+# Vector store
+qdrant-client==1.16.2
+
+# Security
+filetype==1.2.0
+
+# PDF creation (for samples)
+reportlab==4.5.1
